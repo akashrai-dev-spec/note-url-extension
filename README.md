@@ -1,6 +1,6 @@
 # 📝 Note & URL Manager — Chrome Extension
 
-![Extension Logo](icons/icon128.png)
+![Extension Logo](extra-image/extra1.png)
 
 A powerful Chrome extension for taking notes and organizing URLs into customizable groups. Perfect for researchers, developers, and anyone who needs to manage web resources efficiently.
 
@@ -40,19 +40,9 @@ A powerful Chrome extension for taking notes and organizing URLs into customizab
 
 ---
 
-## 📸 Screenshots
 
-### Main Interface
 
-![Main Interface](https://via.placeholder.com/800x450/4a6fa5/ffffff?text=Note+%26+URL+Manager)
-
-### URL Groups
-
-![URL Groups](https://via.placeholder.com/800x450/28a745/ffffff?text=YouTube+%7C+Work+%7C+Research)
-
-### Add URL Modal
-
-![Add URL](https://via.placeholder.com/600x400/6c757d/ffffff?text=Add+URL+to+Group)
+![URL](https://github.com/akashrai-dev-spec/note-url-extension/tree/main)
 
 ---
 
