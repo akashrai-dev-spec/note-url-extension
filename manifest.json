@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Note & URL Manager",
+  "version": "1.0",
+  "description": "Take notes and organize URLs into groups",
+  "permissions": ["storage", "tabs", "sidePanel"],
+  "action": {
+    "default_title": "Open Note & URL Manager"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Y",
+        "mac": "Command+Shift+Y"
+      }
+    }
+  }
+}
